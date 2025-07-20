@@ -1,7 +1,9 @@
 # Chef Hazerin - Comfort food diary (bigger header)
 
-*amazing* recipe (italics)
-**ultimate** joy (bold)
+Use \<br> for line breaks.
+
+*amazing* recipe (italics) <br>
+**ultimate** joy (bold) <br>
 ***amazing and ultimate*** (both)
 
 ## Recipes (smaller header)
