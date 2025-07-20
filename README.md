@@ -32,7 +32,7 @@ print("Hello world!")
 
 ### Relevant pictures
 
-\!\[\](localfile)
+\!\[\](localfile) <br>
 \[\](link to image)
 
 image name must not have spaces.
